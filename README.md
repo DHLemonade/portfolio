@@ -1,7 +1,7 @@
 # 프로젝트 포트폴리오
 
 ## 1. 쇼핑몰 자동 구매 매크로
-[Link](https://github.com/DHLemonade/AutoPurchase)<br/>
+[GitHub Repository Link](https://github.com/DHLemonade/AutoPurchase)<br/>
 <img src = "/img/macro.gif" width = "640px" height = "360px"></img><br/>
 ### 개요
 무신사, 크림에서 사용 가능한 자동 구매 매크로 개발
@@ -13,7 +13,7 @@
 * 텔레그램 API를 활용해 필요시 메시지를 보내는 기능 구현.   
 
 ## 2. 선물시장 비트코인 가격 예측 프로젝트
-[Link](https://github.com/DHLemonade/bitcoin_prediction)<br/>
+[GitHub Repository Link](https://github.com/DHLemonade/bitcoin_prediction)<br/>
 <img src = "/img/lstm.png" width = "640px" height = "360px"></img><br/>
 ### 개요
 LSTM 모델을 통한 비트코인 가격 예측
