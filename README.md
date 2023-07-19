@@ -13,7 +13,7 @@
 * 텔레그램 API를 활용해 필요시 메시지를 보내는 기능 구현.   
 
 ## 2. 선물시장 비트코인 가격 예측 프로젝트
-
+[Link](https://github.com/DHLemonade/bitcoin_prediction)
 ### 개요
 LSTM 모델을 통한 비트코인 가격 예측
 
